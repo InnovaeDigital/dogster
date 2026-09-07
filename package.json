@@ -1,0 +1,1 @@
+{"name":"dogster-landing-page","version":"1.0.0","private":true,"description":"Dogster Landing Page - GitHub + Vercel","scripts":{"dev":"npx serve .","build":"node scripts/verify-assets.js"}}
